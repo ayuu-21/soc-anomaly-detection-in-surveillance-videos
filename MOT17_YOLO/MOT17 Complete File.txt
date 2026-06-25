@@ -1,0 +1,4 @@
+The MOT17 trained model can be found here : https://drive.google.com/drive/folders/1Wma13Dpr5byVfECS24nTEjyZRq5KOcKm?usp=drive_link
+
+GITHUB DOESN'T ALLOW FILE MORE THAN 25MB ON WEB INTERFACE AND IT WAS TIME CONSUMING TO UPLOAD IT FROM LOCAL.
+SO YEAH I HAVE UPLOADED THE RESULTS AS WELL HERE..
