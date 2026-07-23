@@ -1,0 +1,5 @@
+The complete video files , stating the working of our model are attached in the following drive link:
+https://drive.google.com/drive/folders/1RgNileFZt5NBJjuaEuS2LNB0eILriwA2?usp=drive_link\
+
+The dataset used is the Avenue Dataset, taken from The Chinese University of Hong Kong (CUHK) :
+https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
